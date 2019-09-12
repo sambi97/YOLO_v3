@@ -1,3 +1,4 @@
 data/
 images/
 weights/
+__pycache__/
